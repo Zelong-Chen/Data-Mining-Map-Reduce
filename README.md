@@ -1,1 +1,1 @@
-# Data-Mining-Map-Reduce
+# Data-Mining-MapReduce
